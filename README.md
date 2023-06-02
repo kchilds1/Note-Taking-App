@@ -15,5 +15,5 @@
 - Added event listener to see when the Add Note button is clicked.
 - created a function for click handling and tested inside the clickHandler function to make sure the event listener is working correctly
 - Within my ClickHandler function I create a new variable noteContent to store the value of note.
-- Created new div to display strings,<p> tag, and button
+- Created new div to display strings,<p>tag,and button
 - Added another event listener to listen for the clicks of the dynamically created buttons in JavaScript
